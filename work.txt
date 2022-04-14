@@ -1,0 +1,19 @@
+https://hh.ru/catalog/avtomobilnyj-biznes+Автомобильный бизнес
+https://hh.ru/catalog/administrativnyj-personal+Административный персонал
+https://hh.ru/catalog/banki-investicii-lizing+Банки, инвестиции, лизинг
+https://hh.ru/catalog/bezopasnost+Безопасность
+https://hh.ru/catalog/buhgalterija-upravlencheskij-uchet-finansy-predprijatija+Бухгалтерия, управленческий учет, финансы предприятия
+https://hh.ru/catalog/vysshij-menedzhment+Высший менеджмент
+https://hh.ru/catalog/gosudarstvennaja-sluzhba-nekommercheskie-organizacii+государственная служба, некоммерческие организации
+https://hh.ru/catalog/dobycha-syrja+Добыча сырья
+https://hh.ru/catalog/domashnij-personal+Домашний персонал
+https://hh.ru/catalog/zakupki+Закупки
+https://hh.ru/catalog/installjacija-i-servis+Инсталляция и сервис
+https://hh.ru/catalog/informacionnye-tehnologii-internet-telekom+Информационные технологии, интернет, телеком
+https://hh.ru/catalog/iskusstvo-razvlechenija-mass-media+Искусство, развлечения, масс-медиа
+https://hh.ru/catalog/konsultirovanie+Консультирование
+https://hh.ru/catalog/marketing-reklama-pr+Маркетинг, реклама, PR
+https://hh.ru/catalog/medicina-farmacevtika+Медицина, фармацевтика
+https://hh.ru/catalog/nauka-obrazovanie+Наука, Образование
+https://hh.ru/catalog/prodazhi+Продажи
+https://hh.ru/catalog/proizvodstvo+Производство, сельское хозяйство
